@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import test
 
 # Load environment variables from .env file
 load_dotenv()
